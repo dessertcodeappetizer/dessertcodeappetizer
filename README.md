@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dessertcodeappetizer&label=Profile%20views&color=0e75b6&style=flat" alt="dessertcodeappetizer" /> </p>
 
-- 🔭 I’m currently working on Django Development [IMDb API Clone](https://github.com/dessertcodeappetizer/WatchMate)
+- 🔭 I’m currently working on Django Development for a web application will share the repository soon.
 
 - 💬 Ask me about Python Development and its frameworks **OpenCV, NumPy, Pandas, PyTest**
 
