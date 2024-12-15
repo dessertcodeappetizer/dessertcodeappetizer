@@ -11,7 +11,7 @@
 
 - 📫 Reach me: **aa4goal@gmail.com**
 
-- ⚡ Fun fact: **I really don't know how people laugh around me though I am not funny.**
+- ⚡ Fun fact: **Logic, Facts, Truth OR Illogical, Doubts, Fantasy Ha Ha Ha Choose Carefully**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
