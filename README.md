@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankur Ashish</h1>
 <h2 align="center">🐍 A Python Developer from India 🇮🇳</h2>
-<h3 align="center">💼 Working at Infosys Limited</h3>
+<h3 align="center">💼 Working at Accenture</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="Python Dev" width="300" />
@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: **Python + Frameworks, Java, Linux, Databases & AI Models**
-- 💬 Ask me about: **Python Backend, Network Programming, Automation, Linux, Databases**
+- 🔭 Currently working on: **Python + Frameworks, Data Engineering, Linux, and AI Models**
+- 💬 Ask me about: **Python Backend, Network Programming, Automation, Linux, Databases, Apache Airflow, Astronomer, Snowflake**
 - 📫 Reach me at: **aa4goal@gmail.com**
-- 🧠 Always exploring: **Security Automation, APIs, CI/CD, and AI Projects**
+- 🧠 Always exploring: **Security Automations, Data Engineering and AI Projects**
 
 ---
 
@@ -77,7 +77,7 @@
 - One Identity Safeguard APIs 🔐  
 - Full-Stack Django Projects 🧱  
 - CI/CD & DevOps 🚢  
-- Java (Basics) ☕  
+- Data Engineering ☕  
 - AI-Driven Automation 🤖
 
 ---
